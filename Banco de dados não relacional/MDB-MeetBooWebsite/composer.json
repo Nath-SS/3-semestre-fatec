@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+        
+    },
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}
